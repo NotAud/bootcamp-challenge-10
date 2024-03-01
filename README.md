@@ -16,7 +16,7 @@ Simply clone the repo, run "npm i", then "npm run start".
 
 ## Usage
 
-Run the nodejs script and generate the SVG by following the given prompts.
+Run the nodejs script and generate the SVG by following the given prompts.  
 [Example Video](https://youtu.be/Zk7EyRjkVGw)
 
 ## License
